@@ -1,0 +1,16 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockchain-by-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bellal Hossain",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "hex": "^0.1.0",
+    "sha256": "^0.2.0"
+  }
+}
