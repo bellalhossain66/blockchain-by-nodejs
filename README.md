@@ -1,15 +1,15 @@
-# blockchain-by-nodejs
+# blockchain-by-nodejs::
 > Creating new block
    {
-     a. Crypto
-     b. SHA256
+     a. Crypto, 
+     b. SHA256, 
      c. HEX
-   }
-> Add new block with last block hash + new hash
+   }, 
+> Add new block
    {
-     a. Last Block Hash
-     b. New Hash with timestamp & info json
+     a. Last Block Hash, 
+     b. New Hash with timestamp & info json, 
      c. mine
-   }
-> Validate block with previous & this block hash
+   }, 
+> Validate block with previous & this block hash, 
 > Blocks are in a chain array
